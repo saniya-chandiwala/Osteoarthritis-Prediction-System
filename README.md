@@ -47,8 +47,6 @@ We worked with **two versions of the dataset**:
 
 ## Screenshots
 
-## Screenshots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b89196eb-331d-44c3-a93d-d03822098bf6" 
        alt="Screenshot 1" width="80%" />
