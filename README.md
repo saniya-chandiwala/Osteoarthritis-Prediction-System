@@ -1,7 +1,8 @@
-# Osteoarthritis Prediction System
+# ArthroPredict
 
-An AI-powered system that predicts the likelihood of Osteoarthritis (OA) from X-ray images using multiple deep learning models.  
-The project is designed to help doctors and patients with early detection and decision-making by providing accurate predictions from multiple models.
+### AI-powered Osteoarthritis detection from X-rays
+
+ArthroPredict evaluates X-ray images to assess Osteoarthritis (OA) risk and returns a percentage-based probability score. Using advanced deep learning models like DINO, InceptionV3, CoAtNet, and EfficientNet, it delivers accurate insights to support doctors and patients in early detection, diagnosis, and treatment decisions.
 
 ---
 
@@ -56,4 +57,3 @@ We worked with **two versions of the dataset**:
   <img src="https://github.com/user-attachments/assets/4258e7d9-d19d-432c-920d-ee934111723c" 
        alt="Screenshot 2" width="80%" />
 </p>
-
